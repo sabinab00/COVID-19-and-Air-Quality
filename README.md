@@ -9,13 +9,7 @@ This project aims to portray the correlation between the number of cases and the
 After downloading all datasets, open Tableau (version ```2021.4``` was used in this project). Connect the ```covid_cases.csv``` dataset to all the AQI datasets for each pollutant using ```Date``` and ```County``` as the relationships.
 
 ### Dashboard: Cases Map
-In the ’Cases Map’ dashboard, a map of the COVID-19 confirmed
-cases per county was created using ’county’ as a geo dimension.
-’Sum of Confirmed Cases’ was used as a mark via a red hue: the
-paler the county, the fewer cases it has, and the darker the county,
-the more cases it has. ’County’ and ’Month’ were utilized as filters,
-so that users could choose which county or month to see in a dropdown menu on the ’Cases Map’ dashboard. The map automatically
-changes to show the information based on their preferences.
+In the ’Cases Map’ dashboard, a map of the COVID-19 confirmed cases per county was created using ’county’ as a geo dimension. ’Sum of Confirmed Cases’ was used as a mark via a red hue: the paler the county, the fewer cases it has, and the darker the county, the more cases it has. ’County’ and ’Month’ were utilized as filters, so that users could choose which county or month to see in a dropdown menu on the ’Cases Map’ dashboard. The map automatically changes to show the information based on their preferences.
 
 ### Dashboard: AQI Map
 To create the ```AQI Map``` dashboard, several worksheets were used. Each sheet contained the AQI information on a map for each pollutant. This was done to show the pollutant-specific data for each county that was included in their respective dataset, since not every county was measured for each pollutant. In each sheet, a map
