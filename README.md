@@ -28,6 +28,6 @@ https://public.tableau.com/app/profile/sabina.bhuiyan6947/viz/shared/GCKNW2GHJ
 https://public.tableau.com/app/profile/sabina.bhuiyan6947/viz/AQIDataPerCounty/AQIperCounty
 
 ## Conclusions
-Results vary for the pollutants visualized; the decreased AQI values for CO, NO2, PM 2.5, and PM 10 pollutants indicate that the air quality improved in Manhattan during the time period that restrictions took place in NYC in 2020. However, the opposite is true for the AQI levels for ozone and SO2.
+Results vary for the pollutants visualized; the decreased AQI values for CO, NO2, PM 2.5, and PM 10 pollutants indicate that the air quality improved in Manhattan during the time period that restrictions took place in NYC in 2020. However, the opposite is true for the AQI levels for ozone and SO2. Further research could be conducted to explore why this was the case, as well as to determine the relationship, if any, between air quality and case rate in regards to poverty rates, population size, etc.
 
 
