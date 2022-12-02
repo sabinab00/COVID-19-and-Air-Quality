@@ -1,4 +1,4 @@
-# Exploring the Relationship between COVID-19-and-Air-Quality in NYS
+# Exploring the Relationship between COVID-19 and Air Quality in NYS
 
 # Advanced Visualization Tools - Final Project
 
